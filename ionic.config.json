@@ -1,5 +1,7 @@
 {
   "name": "linterna",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
